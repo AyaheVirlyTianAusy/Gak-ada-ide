@@ -128,3 +128,4 @@
 3.13.1 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.13.0|checksum:087189899c337937bcf1d66a50dc3fc999ac88335bbeba4d385c2a38c87d7b38,ruby:>= 1.8.7
 3.13.2 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.13.0|checksum:2327335def0e1665325a9b617e3af9ae20272741d80ac550336309a7c59abdef,ruby:>= 1.8.7
 3.13.3 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.13.0|checksum:be08abadfe28e932d03b8e70215cd5972bd7693e0f1a45c7479b11e9a773c3c2,ruby:>= 1.8.7
+3.13.4 diff-lcs:< 2.0&>= 1.2.0,rspec-support:~> 3.13.0|checksum:6bb158a0719c53d522104ed34c0777b884b2c9dc775ce64eaa10207df02ab993,ruby:>= 1.8.7
