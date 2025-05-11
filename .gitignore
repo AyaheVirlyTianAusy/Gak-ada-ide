@@ -1,0 +1,4 @@
+.ssh/
+.npm/_logs/
+.cache/
+.bash_history
