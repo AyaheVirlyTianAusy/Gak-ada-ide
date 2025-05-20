@@ -1,0 +1,20 @@
+{
+  "name": "my-website",
+  "version": "1.0.0",
+  "description": "Proyek ini adalah eksperimen dan eksplorasi dalam pengembangan **JavaScript, Webpack, dan Netlify**, dikembangkan oleh **@AyaheVirlyTianAusy** untuk memahami lebih dalam tentang teknologi modern dalam web development.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyaheVirlyTianAusy/Gak-ada-ide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyaheVirlyTianAusy/Gak-ada-ide/issues"
+  },
+  "homepage": "https://github.com/AyaheVirlyTianAusy/Gak-ada-ide#readme"
+}
